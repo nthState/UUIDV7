@@ -1,0 +1,11 @@
+opt_in_rules:
+  - sorted_imports
+  
+disabled_rules:
+  - line_length
+  - nesting
+
+indentation: 2
+  
+excluded:
+  - .build
